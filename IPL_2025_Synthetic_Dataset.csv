@@ -1,0 +1,33 @@
+Match_ID,Season,Team,Opponent,Venue,Player,Runs,Wickets,Match_Winner
+1,2025,MI,CSK,Wankhede,Rohit,50,0,MI
+1,2025,CSK,MI,Wankhede,Dhoni,40,1,MI
+1,2025,MI,CSK,Wankhede,Surya,65,0,MI
+1,2025,CSK,MI,Wankhede,Jadeja,30,2,MI
+2,2025,RCB,KKR,Chinnaswamy,Kohli,80,0,RCB
+2,2025,KKR,RCB,Chinnaswamy,Russell,55,3,RCB
+2,2025,RCB,KKR,Chinnaswamy,Faf,60,0,RCB
+2,2025,KKR,RCB,Chinnaswamy,Narine,25,2,RCB
+3,2025,GT,SRH,Narendra Modi,Gill,45,0,GT
+3,2025,SRH,GT,Narendra Modi,Abdul,70,2,GT
+3,2025,GT,SRH,Narendra Modi,Pathirana,75,1,GT
+3,2025,SRH,GT,Narendra Modi,Khum,50,1,GT
+4,2025,RR,PBKS,Eden Gardens,Buttler,40,0,RR
+4,2025,PBKS,RR,Eden Gardens,Banton,60,2,RR
+4,2025,RR,PBKS,Eden Gardens,Ashwin,35,1,RR
+4,2025,PBKS,RR,Eden Gardens,Rabada,30,3,RR
+5,2025,MI,SRH,MA Chidambaram,Rohit,95,0,MI
+5,2025,SRH,MI,MA Chidambaram,Abdul,55,1,MI
+5,2025,MI,SRH,MA Chidambaram,Surya,85,0,MI
+5,2025,SRH,MI,MA Chidambaram,Khum,40,1,MI
+6,2025,CSK,RCB,Himachal,Dhoni,50,2,CSK
+6,2025,RCB,CSK,Himachal,Kohli,90,0,CSK
+6,2025,CSK,RCB,Himachal,Jadeja,45,1,CSK
+6,2025,RCB,CSK,Himachal,Faf,65,0,CSK
+7,2025,GT,KKR,Wankhede,Gill,70,0,GT
+7,2025,KKR,GT,Wankhede,Russell,60,3,GT
+7,2025,GT,KKR,Wankhede,Pathirana,80,0,GT
+7,2025,KKR,GT,Wankhede,Narine,35,2,GT
+8,2025,RR,PBKS,Chinnaswamy,Buttler,55,0,RR
+8,2025,PBKS,RR,Chinnaswamy,Ashwin,45,1,RR
+8,2025,RR,PBKS,Chinnaswamy,Rabada,50,0,RR
+8,2025,PBKS,RR,Chinnaswamy,Banton,42,2,RR
